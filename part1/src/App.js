@@ -12,6 +12,7 @@ function App() {
       <Mensaje color="green" message="en un curso" />
       <Mensaje color="yellow" message="de React" />
       <Mensaje color="blue" message="Bienvenido Daxson y Papa" />
+      <Mensaje color="blue" message="Bienvenido Daxson y Papa" />
       <Description />
     </div>
   );
